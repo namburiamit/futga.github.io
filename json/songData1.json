@@ -1,0 +1,27 @@
+{
+    "0-18": {
+        "func": "Intro/Verse",
+        "head": "**0-18% - Intro/Verse:**",
+        "text": "- Electric guitar lead with distorted sound\n- Keyboard accompaniment with simple chords\n- Drums start with a steady groove\n- Male vocal enters with passionate singing"
+    },
+    "18-40": {
+        "func": "Spoken Segment",
+        "head": "**18-40% - Spoken Segment:**",
+        "text": "- Low-quality recording with noisy and mono sound\n- Male vocal talks\n- Song may be playing in a tutorial/instructional setting"
+    },
+    "40-69": {
+        "func": "Cover Song",
+        "head": "**40-69% - Cover Song:**",
+        "text": "- Low-quality recording with noisy and mono sound\n- Acoustic guitar covers a country melody\n- Song may be playing at home"
+    },
+    "69-100": {
+        "func": "Instrumental Segment",
+        "head": "**69-100% - Instrumental Segment:**",
+        "text": "- Medium-fast tempo\n- Guitarist plays enthusiastic lead on amplified guitar\n- Song is distorted with inferior audio quality\n- Song is a PopRock/Rock song"
+    },
+    "global": {
+        "func": null,
+        "head": "global",
+        "text": "The music analysis below summarizes the song's overall mood, theme, tempo, melody, instruments and chord progression. It also provides a detailed analysis of each functional segment, including its time boundaries and musical characteristics. The song exhibits a lively and energetic mood, with a theme of passion and enthusiasm. The tempo is medium, and the melody is catchy and memorable. The instrumentation includes electric guitars, synths, drums, and a vocalist. The chord progression is predominantly based on blues and pentatonic scales."
+    }
+}

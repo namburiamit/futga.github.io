@@ -1,0 +1,32 @@
+{
+    "0-16": {
+        "func": "Intro and Verse",
+        "head": "**0-16:** Intro and Verse",
+        "text": "Intro and Verse\n- The song begins with a low-quality recording featuring a male voice singing the main melody over a repetitive chord progression.\n- The instrumentation includes electric guitar, bass, drums, and keyboard.\n- The tempo is moderate, and the mood is mellow and romantic."
+    },
+    "16-35": {
+        "func": "Chorus",
+        "head": "**16-35:** Chorus",
+        "text": "Chorus\n- The chorus features a male vocalist singing melodically and enthusiastically.\n- The instrumentation includes electric guitar, bass, drums, and keyboard.\n- The tempo increases slightly, and the mood becomes more upbeat and energetic."
+    },
+    "35-58": {
+        "func": "Instrumental Bridge",
+        "head": "**35-58:** Instrumental Bridge",
+        "text": "Instrumental Bridge\n- The song transitions into an instrumental bridge with a medium tempo and a melancholic mood.\n- The instrumentation includes acoustic guitar, bass, drums, and keyboard.\n- The mood is somber and introspective."
+    },
+    "58-79": {
+        "func": "Cajon Percussive Rhythm and Male Vocal",
+        "head": "**58-79:** Cajon Percussive Rhythm and Male Vocal",
+        "text": "Cajon Percussive Rhythm and Male Vocal\n- A low-quality recording features a cajon percussive rhythm and a male voice singing and talking.\n- The instrumentation includes cajon, bass, drums, and keyboard.\n- The tempo is moderate, and the mood is upbeat and energetic."
+    },
+    "79-100": {
+        "func": "Christian Gospel Music Piece",
+        "head": "**79-100:** Christian Gospel Music Piece",
+        "text": "Christian Gospel Music Piece\n- The song concludes with a Christian gospel music piece featuring a male vocalist singing melodically and emotionally.\n- The instrumentation includes acoustic guitar, bass, drums, and keyboard.\n- The tempo is moderate, and the mood is spiritual and uplifting."
+    },
+    "global": {
+        "func": null,
+        "head": "global",
+        "text": "The song exhibits a variety of musical characteristics, including a mellow and romantic mood, a theme of youth and innocence, a moderate tempo, a catchy melody, and the use of various instruments such as electric guitar, acoustic guitar, bass, drums, and keyboard."
+    }
+}

@@ -1,0 +1,232 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.header-image {
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    padding-top: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.header,
+.content {
+    background: #fff;
+    padding: 35px;
+    margin-bottom: 20px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.header h1 {
+    margin-top: 0;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    background: #fff;
+    color: #333;
+    text-decoration: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.button:hover {
+    background: #333;
+    color: #fff;
+}
+
+.button .icon {
+    margin-right: 8px;
+}
+
+.authors {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.authors i span {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.authors i span sup {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+.affiliations {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+.song-section {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.audio-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    /* Add spacing below the audio player */
+}
+
+.song-layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    /* Add spacing between the bar and sections */
+}
+
+.song-bar {
+    display: flex;
+    width: 70%;
+    background-color: #e0e0e0;
+    height: 25px;
+    position: relative;
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    padding: 2px;
+    /* Add padding to create space between segments */
+}
+
+.segment {
+    height: 100%;
+    background-color: rgba(0, 123, 255, 0.5);
+    margin-right: 2px;
+    /* Space between segments */
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 3px;
+    /* Slight rounding for better flow */
+}
+
+.segment:last-child {
+    margin-right: 0;
+    /* Remove margin for the last segment */
+}
+
+.segment:hover,
+.segment.highlight {
+    background-color: rgba(255, 123, 0, 0.7);
+    /* Highlight color */
+    transform: scale(1.02);
+}
+
+.song-sections {
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.section-item {
+    background-color: #f0f0f0;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 14px;
+}
+
+.section-item:hover,
+.section-item:active {
+    background-color: #ddd;
+}
+
+.caption {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: none;
+    position: relative;
+    width: 100%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    padding-bottom: 20px;
+}
+
+.caption.show {
+    display: block;
+}
+
+/* Bibtex section styles */
+.bibtex-section {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    position: relative;
+}
+
+.bibtex-section h3 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.bibtex-code {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    white-space: pre-wrap;
+    overflow-x: auto;
+}
+
+.copy-button {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    padding: 5px 10px;
+    background: #fff;
+    color: #333;
+    text-decoration: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.copy-button:hover {
+    background: #333;
+    color: #fff;
+}

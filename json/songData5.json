@@ -1,0 +1,32 @@
+{
+    "0-19": {
+        "func": "Intro and Verse",
+        "head": "**0-19:** Intro and Verse",
+        "text": "Intro and Verse\n- The song begins with a gentle arpeggiated chord progression on the acoustic guitar.\n- The male vocal enters with a romantic melody.\n- The bass provides a steady rhythm.\n- The percussion adds a subtle beat."
+    },
+    "19-39": {
+        "func": "Chorus",
+        "head": "**19-39:** Chorus",
+        "text": "Chorus\n- The melody changes to a more upbeat one.\n- The strings join in with arpeggiated chords.\n- The percussion becomes more prominent."
+    },
+    "39-61": {
+        "func": "Instrumental Bridge",
+        "head": "**39-61:** Instrumental Bridge",
+        "text": "Instrumental Bridge\n- The music becomes more somber.\n- The clarinet and bass clarinet play a melancholic melody.\n- The percussion adds a subtle beat."
+    },
+    "61-81": {
+        "func": "Verse and Chorus",
+        "head": "**61-81:** Verse and Chorus",
+        "text": "Verse and Chorus\n- The melody changes back to the original one.\n- The instruments are joined by the percussion."
+    },
+    "81-100": {
+        "func": "Outro",
+        "head": "**81-100:** Outro",
+        "text": "Outro\n- The music fades out.\n\nOverall, the music is characterized by its mellow mood, romantic theme, moderate tempo, simple melody, and basic chord progression."
+    },
+    "global": {
+        "func": null,
+        "head": "global",
+        "text": "The music is characterized by its mellow mood, romantic theme, moderate tempo, simple melody, and basic chord progression. The instrumentation includes a male vocal, acoustic guitar, bass, strings, and percussion."
+    }
+}

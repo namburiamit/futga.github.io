@@ -1,0 +1,32 @@
+{
+    "0-14": {
+        "func": "Intro and Verse",
+        "head": "**0-14% - Intro and Verse:**",
+        "text": "- Introduction of the sitar and percussion instruments.\n- Slow tempo, simple chord progression, melancholic melody."
+    },
+    "14-37": {
+        "func": "Chorus",
+        "head": "**14-37% - Chorus:**",
+        "text": "- Addition of the bass guitar and vocals.\n- Increase in tempo, more complex chord progression."
+    },
+    "37-58": {
+        "func": "Bridge",
+        "head": "**37-58% - Bridge:**",
+        "text": "- Solo harmonica playing a blues lick.\n- Slow tempo, simple chord progression, melancholic melody."
+    },
+    "58-77": {
+        "func": "Verse",
+        "head": "**58-77% - Verse:**",
+        "text": "- Male voice singing the main melody.\n- Flute playing a melody in the background.\n- Simple chord progression, moderate tempo."
+    },
+    "77-100": {
+        "func": "Outro",
+        "head": "**77-100% - Outro:**",
+        "text": "- Piano playing a melody.\n- Slow tempo, simple chord progression, melancholic melody."
+    },
+    "global": {
+        "func": null,
+        "head": "global",
+        "text": "The music is predominantly instrumental, with a few sections featuring vocals. The overall mood is melancholic and poignant, with a theme of longing and yearning. The tempo is moderate to slow, with a simple chord progression and a repetitive melody."
+    }
+}

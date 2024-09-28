@@ -1,0 +1,32 @@
+{
+    "0-16": {
+        "func": "Intro and Verse",
+        "head": "**0-16:** Intro and Verse",
+        "text": "Intro and Verse\n- Electric guitar creates a bluesy atmosphere with a distorted sound.\n- Slow tempo and melancholic melody.\n- Simple chord progression with a focus on the tonic and dominant chords."
+    },
+    "16-36": {
+        "func": "Verse and Chorus",
+        "head": "**16-36:** Verse and Chorus",
+        "text": "Verse and Chorus\n- Transition to a faster tempo and more upbeat melody.\n- Addition of acoustic guitar and drums.\n- Repeated chorus with a focus on the theme of love and loss."
+    },
+    "36-56": {
+        "func": "Instrumental Bridge",
+        "head": "**36-56:** Instrumental Bridge",
+        "text": "Instrumental Bridge\n- Melodramatic electric guitar solo with a distorted sound.\n- Fast tempo and intense melody.\n- Complex chord progression with a focus on the pentatonic scale."
+    },
+    "56-78": {
+        "func": "Verse and Chorus",
+        "head": "**56-78:** Verse and Chorus",
+        "text": "Verse and Chorus\n- Return to the slow tempo and melancholic melody.\n- Addition of didgeridoo and male voice.\n- Repeated chorus with a focus on the theme of redemption."
+    },
+    "78-100": {
+        "func": "Outro and Instrumental Solo",
+        "head": "**78-100:** Outro and Instrumental Solo",
+        "text": "Outro and Instrumental Solo\n- Instrumental solo with a groovy bass line and steady drumming rhythm.\n- Simple chord progression with a focus on the tonic and dominant chords.\n- Transition to a fade out."
+    },
+    "global": {
+        "func": null,
+        "head": "global",
+        "text": "The music is a blend of various genres, including rock, country, and electronic dance music. The overall mood is energetic, passionate, and relaxed. The theme revolves around themes of love, loss, and redemption. The tempo is varied throughout the song, with sections ranging from slow and melancholic to fast and upbeat. The melody is catchy and memorable, with a strong emphasis on the electric guitar and vocals. The chord progression is complex and multifaceted, incorporating elements of blues, country, and rock."
+    }
+}
